@@ -1,0 +1,19 @@
+
+.btn-black{
+    background-color: black;
+}
+.text-black{
+    color:black !important;
+}
+.text-green{
+    color:rgba(26, 137, 23, 1)!important;
+}
+.text-count-color{
+    color:#e6e6e6 !important;
+}
+.bg-medium{
+    background-color:#FFC017;
+}
+.border-bottom-line{
+    border-bottom: 1px solid #414141;
+}
